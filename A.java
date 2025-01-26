@@ -4,4 +4,5 @@ public class A {
     }
 
     // hello A
+    // update A
 }
